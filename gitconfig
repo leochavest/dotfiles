@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ltsancheschaves@gmail.com
+	name = Leonardo Chaves
